@@ -8,8 +8,11 @@ python motionfinder.py -ARGS
 
 ### Args
 -d -- Required; this is the directory path to scan.
+
 -t -- This is the movement threshold.  Default is 20, lower is more sensitive.
+
 -q -- The size of the queue to use.  32 is the default.  If you get memory erros, lower it.
+
 -v -- If you want frame by frame details to spew down the screen, set this to any value.
 
 ## Examples:
